@@ -1,6 +1,6 @@
 # dust-world / sheets
 
-Sheets is the directory where I will be adding raw and unrefined content that may or may not be cannon. Essenially, I want it to be as easy as possible for me to add if I want to.
+Sheets is the directory where I will be adding raw and unrefined content that may or may not be cannon. Essentially, I want it to be as easy as possible for me to add if I want to.
 
 ## Naming
 
